@@ -5,7 +5,7 @@ class Main {
 
     // if statement
     if (language == "Java") {
-      System.ot.println("Best Programming Language");
+      System.out.println("Best Programming Language");
     }
   }
 }
